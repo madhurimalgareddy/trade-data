@@ -1,3 +1,3 @@
-# tradeflow-data
+# Trade Data
 
 Receives data from exiobase/tradeflow
